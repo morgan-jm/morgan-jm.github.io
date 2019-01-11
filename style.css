@@ -1,0 +1,29 @@
+body {
+background: #303030;
+text-align: center;
+}
+#main{
+	width: 1000px;
+	height: 600px;
+	background: #d6d6d6;
+	margin: 25px auto;
+	border: solid 3px #5e5e5e;
+	padding: 18px;
+}
+h1 {
+	text-align: center
+	font-family: "times new roman";
+	font: 24pt;
+	color: 
+}
+hr {
+	height: 3px;
+	color: #d6d6d6;	
+}
+p {
+	font-family: "calibri";
+	font-size: 12pt;
+	text-align: left;
+	text-indent: 48px;
+	color:
+	}
